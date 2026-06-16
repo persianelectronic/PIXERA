@@ -1,16 +1,15 @@
-# 🎨 PIXERA
 
 <p align="center">
-  <img src="assets/images/splash_full.png" width="220">
+ 
+<img width="880" height="213" alt="Untitled-1" src="https://github.com/user-attachments/assets/15439216-6b10-4a8e-ab1e-132062cd1695" />
+
 </p>
 
 <p align="center">
   <strong>کنترلر هوشمند نمایشگر LED ماتریسی</strong>
 </p>
 
-<p align="center">
-سامانه‌ای پیشرفته برای کنترل نمایشگرهای LED ماتریسی با افکت‌های پویا، ویژوالایزر صوتی، ساعت و تاریخ، نمایش متن‌های متحرک و ارتباط بی‌سیم بلادرنگ.
-</p>
+
 
 
 
