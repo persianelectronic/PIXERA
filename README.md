@@ -6,9 +6,12 @@
 </p>
 
 <p align="center">
-  <strong>کنترلر هوشمند نمایشگر LED ماتریسی</strong>
+  <strong><sub>SMART LED MATRIX DISPLAY</sub></strong>
 </p>
 
+<p align="center">
+  <strong>✨ نمایشگر ماتریسی هوشمند ✨</strong>
+</p>
 
 
 
